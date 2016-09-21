@@ -528,6 +528,8 @@ footer {
     background-color: rgba(136, 140, 140, 0.1);
     padding: 10px;
     width: 100%; }
+  footer a {
+    color: #5B5F5F; }
 
 .blog-post {
   width: 750px;
